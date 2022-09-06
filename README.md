@@ -1,4 +1,2 @@
 # Flood-Survival
-sandbox gamemode
-https://asset.party/
-https://sbox.facepunch.com/news
+Right now its not in development because we're working on deathrun
